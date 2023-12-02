@@ -18,13 +18,13 @@ After these two steps there are 945 images each of the shape(256x256x3) and valu
 # Procesing of the masks.
 The masks also need to be proceed. First they must be the same size as the patched image. And also the colors need to be converted into classes. After that I perform one-hot encoding for binary representation of classes.
 
-#U-NET
+# U-NET
 In this Colab Notebook we recreate the original U-NET but we change number of filters. Future things i want to do is to check the performance of diffrent U-NEts according to research and aplications in Satellite imagery.
 
-#Summary.
+# Summary.
 Check this notebook if you: Want a hands-on in deep learning, want to get to know step by step explaination of how to perform deep learning on satellite imagery. Also i very recomend watching great videos from mr. Avkash Chauhan.
 
-#Sources:
+# Sources:
 Avkash Chauhan Prodramp workshops:
 Repository: https://github.com/prodramp/DeepWorks/tree/main/DL-SatelliteImagery
 YouTube: https://youtu.be/3Xn21RT-y7Y?si=woavf8syHg2lfARp
